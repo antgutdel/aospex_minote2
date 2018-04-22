@@ -66,7 +66,7 @@
   <project path="system/sepolicy" name="platform_system_sepolicy" groups="pdk" remote="aex" />
   <project path="system/qcom" name="platform_system_qcom" groups="pdk" remote="aex" />
   <project path="system/vold" name="platform_system_vold" groups="pdk" remote="aex" />
-  <project path="vendor/aosp" name="platform_vendor_aosp" remote="aex" />
+  <project path="vendor/aosp" name="platform_vendor_aosp" remote="antgutdel" />
 
   <!-- HardWare QCOM -->
   <project path="hardware/qcom/audio/default" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="los" />

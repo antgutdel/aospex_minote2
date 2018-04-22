@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/xiaomi/scorpio" name="device_xiaomi_scorpio" remote="aex" />
-  <project path="device/xiaomi/msm8996-common" name="device_xiaomi_msm8996-common" remote="aex" />
-  <project path="kernel/xiaomi/msm8996" name="kernel_xiaomi_msm8996" remote="aex" />
-  <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="muppets"/>
+
+  <project path="device/xiaomi/scorpio" name="device_xiaomi_scorpio" remote="aex-devices" />
+  <project path="device/xiaomi/msm8996-common" name="device_xiaomi_msm8996-common" remote="aex-devices" />
+  <project path="kernel/xiaomi/msm8996" name="kernel_xiaomi_msm8996" remote="aex-devices" />
+  <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="muppets" />
+
 </manifest>

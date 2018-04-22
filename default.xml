@@ -25,8 +25,8 @@
            revision="refs/heads/8.1.x" />
 
   <remote  name="muppets"
-           fetch="https://github.com/TheMuppets/" 
-           revision="refs/heads/="O-MR1" />
+           fetch="https://github.com/TheMuppets" 
+           revision="refs/heads/lineage-15.1" />
 
   <default revision="refs/tags/android-8.1.0_r20"
            remote="aosp"

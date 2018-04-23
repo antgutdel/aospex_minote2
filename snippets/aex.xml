@@ -23,10 +23,10 @@
   <project path="device/aosp/sepolicy" name="platform_device_aosp_sepolicy" remote="aex" />
   <project path="external/wpa_supplicant_8" name="platform_external_wpa_supplicant_8" groups="pdk" remote="aex" />
   <project path="external/DUtils" name="platform_external_DUtils" remote="aex" />
-  <!--project path="frameworks/av" name="platform_frameworks_av" groups="pdk" remote="aex" /-->
-  <!--project path="frameworks/base" name="platform_frameworks_base" remote="aex" /-->
-  <!--project path="frameworks/native" name="platform_frameworks_native" groups="pdk" remote="aex" /-->
-  <!--project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" groups="pdk" remote="aex" /-->
+  <project path="frameworks/av" name="platform_frameworks_av" groups="pdk" remote="aex" />
+  <project path="frameworks/base" name="platform_frameworks_base" remote="aex" />
+  <project path="frameworks/native" name="platform_frameworks_native" groups="pdk" remote="aex" />
+  <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" groups="pdk" remote="aex" />
   <project path="hardware/aosp/interfaces" name="platform_hardware_aosp_interfaces" remote="aex" >
       <copyfile dest="hardware/aosp/Android.bp" src="Android.bp"/>
   </project>

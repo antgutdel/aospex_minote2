@@ -42,7 +42,7 @@
   <remove-project name="platform/packages/apps/Launcher2" />
   <remove-project name="platform/packages/apps/LegacyCamera" />
   <remove-project name="platform/packages/apps/Protips" />
-  <remove-project name="platform/packages/apps/Nfc" />
+  <!--remove-project name="platform/packages/apps/Nfc" /-->
   <remove-project name="platform/packages/apps/SpareParts" />
   <remove-project name="platform/prebuilts/clang/host/darwin-x86" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
@@ -62,10 +62,10 @@
   <remove-project name="platform/external/selinux" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/wpa_supplicant_8" />
-  <remove-project name="platform/frameworks/av" />
-  <remove-project name="platform/frameworks/base" />
-  <remove-project name="platform/frameworks/native" />
-  <remove-project name="platform/frameworks/opt/telephony" />
+  <!--remove-project name="platform/frameworks/av" /-->
+  <!--remove-project name="platform/frameworks/base" /-->
+  <!--remove-project name="platform/frameworks/native" /-->
+  <!--remove-project name="platform/frameworks/opt/telephony" /-->
   <remove-project name="platform/hardware/qcom/bootctrl" />
   <remove-project name="platform/hardware/broadcom/libbt" />
   <remove-project name="platform/hardware/interfaces" />
@@ -81,13 +81,6 @@
   <remove-project name="platform/hardware/qcom/media" />
   <remove-project name="platform/hardware/qcom/wlan" />
   <remove-project name="platform/hardware/ril" />
-  <remove-project name="platform/packages/apps/PackageInstaller" />
-  <remove-project name="platform/packages/apps/Bluetooth" />
-  <remove-project name="platform/packages/providers/DownloadProvider" />
-  <remove-project name="platform/packages/providers/MediaProvider" />
-  <remove-project name="platform/packages/providers/TelephonyProvider" />
-  <remove-project name="platform/packages/services/Telecomm" />
-  <remove-project name="platform/packages/services/Telephony" />
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/extras" />
